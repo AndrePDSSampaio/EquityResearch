@@ -6,7 +6,7 @@ Serão feitos relatórios sobre ativos presentes em bolsas **brasileiras e inter
 ## 📌 Lista de ativos analisados  
 
 ### 🇧🇷 **Ações brasileiras**  
-1. **VALE3**  
+1. **VALE3**  OK
 2. **PETR4**  
 3. **ITUB4**  
 4. **MGLU3**  
